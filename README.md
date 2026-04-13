@@ -117,25 +117,41 @@ This project addresses these issues by creating a modern, intuitive, and scalabl
 
 *A dedicated mobile bottom navigation bar ensures a "thumb-friendly" and native-app-like experience on small screens.*
 
+
+Got it — you want proper **markdown code blocks (black boxes)**. Use this 👇
+
 ---
 
 ## Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pranav08-cyber/fosse_screening_task
+Clone the repository:
 
-2. Navigate to the project folder:
-  cd workshop_booking-master
+```bash
+git clone https://github.com/Pranav08-cyber/fosse_screening_task
+```
 
-3. Install dependencies:
-   npm install
+Navigate to the project folder:
 
-4. Run the development server:
-   npm run dev
+```bash
+cd workshop_booking-master
+```
 
-5. To build for production:
-   npm run build
+Install dependencies:
 
----
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+To build for production:
+
+```bash
+npm run build
+```
+
 
