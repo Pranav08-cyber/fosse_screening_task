@@ -1,5 +1,3 @@
-# Workshop Booking Redesign
-
 # Workshop Booking System – Modern UI/UX Redesign
 
 ## Developer
