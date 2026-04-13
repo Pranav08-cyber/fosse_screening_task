@@ -33,17 +33,20 @@ This project is a modern, responsive redesign of the Workshop Booking interface.
 ## Visual Showcase
 
 ### Before (Generic Interface)
-![Before - Generic Dashboard](https://placehold.co/800x450/e2e8f0/475569?text=Before:+Generic+Blue+and+Gray+Interface)
+![Before - Generic Dashboard]
 *The original interface featured a standard blue/gray color palette, generic card layouts without visual depth, and static navigation.*
 
 ### After (The Redesign)
-![After - Modern Dashboard](https://placehold.co/800x450/2563eb/ffffff?text=After:+Modern+Glassmorphism+Dashboard)
+![After - Modern Dashboard] <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/82a8c822-06fe-41a3-902e-08ac8cfebad3" />
+
 *The redesigned dashboard features a vibrant aesthetic with fluid gradients, glassmorphism, and animated background elements.*
 
-![After - Workshop Cards](https://placehold.co/800x450/2563eb/ffffff?text=After:+Topic-Relevant+Workshop+Cards)
+![After - Workshop Cards] <img width="1918" height="1037" alt="image" src="https://github.com/user-attachments/assets/3bc09795-2f6e-4a53-8c13-699a10cf85da" />
+
 *Workshop cards now use high-quality, topic-relevant imagery and feature staggered entrance animations.*
 
-![After - Mobile Navigation](https://placehold.co/400x800/0f172a/ffffff?text=After:+Mobile+Bottom+Navigation)
+![After - Mobile Navigation] <img width="1220" height="2136" alt="image" src="https://github.com/user-attachments/assets/656e11a9-a3f2-46b3-bcce-e3d95085daa9" />
+
 *A dedicated mobile bottom navigation bar ensures a "thumb-friendly" and native-app-like experience on small screens.*
 
 ## Setup Instructions
