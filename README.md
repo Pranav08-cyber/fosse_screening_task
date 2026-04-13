@@ -1,6 +1,75 @@
 # Workshop Booking Redesign
 
-This project is a modern, responsive redesign of the Workshop Booking interface. It focuses on performance, accessibility, and a premium mobile-first user experience.
+# Workshop Booking System – Modern UI/UX Redesign
+
+## Developer
+**Pranav Dandge**  
+B.Tech CSE (Cybersecurity & Digital Forensics)  
+Email: pranav.24bcy10366@vitbhopal.ac.in  
+
+---
+
+## Project Overview
+This project is a modern, responsive redesign of a Workshop Booking System, with a focus on improving user experience, performance, and accessibility.
+
+The aim was to transform a traditional, data-heavy interface into a clean and intuitive platform that works smoothly across devices, especially on mobile. The redesigned interface feels faster, more engaging, and easier to navigate.
+
+---
+
+## Key Highlights
+- Modern UI with glassmorphism and gradient-based design  
+- Fully mobile-first responsive layout  
+- Optimized for performance and smooth interactions  
+- Improved user flow using a multi-step booking process  
+- Consistent design system across all modules  
+- Accessibility-focused design (contrast, structure, usability)  
+
+---
+
+## Core Features
+- Interactive dashboard with clear visual hierarchy  
+- Workshop cards with real-time status indicators  
+- Adaptive navigation (sidebar for desktop, bottom navigation for mobile)  
+- Multi-step booking system to simplify user flow  
+- User profile and workshop tracking  
+- Clear status feedback (Accepted / Pending / Rejected)  
+
+---
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript, Tailwind CSS  
+- Animations: Framer Motion  
+- Design Approach: Mobile-First, Responsive Grid System  
+- Backend (Base Project): Django  
+
+---
+
+## Design Philosophy
+This redesign is based on a few key principles:
+- Clarity over clutter  
+- Consistency in UI components  
+- Better visual engagement without overcomplicating the interface  
+- Accessibility and usability for all users  
+
+---
+
+## Responsiveness
+- Mobile-first architecture  
+- Adaptive layouts using responsive grids  
+- Touch-friendly interactions  
+- Consistent experience across different screen sizes  
+
+---
+
+## Problem Statement
+Traditional workshop booking systems are often:
+- Complex and difficult to navigate  
+- Not optimized for mobile usage  
+- Visually outdated  
+
+This project addresses these issues by creating a modern, intuitive, and scalable interface that improves overall usability.
+
+---
 
 ## Reasoning & Design Decisions
 
