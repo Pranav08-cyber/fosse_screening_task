@@ -71,6 +71,7 @@ This project addresses these issues by creating a modern, intuitive, and scalabl
 
 ---
 
+
 ## Reasoning & Design Decisions
 
 ### What design principles guided your improvements?
@@ -118,8 +119,25 @@ This project addresses these issues by creating a modern, intuitive, and scalabl
 
 *A dedicated mobile bottom navigation bar ensures a "thumb-friendly" and native-app-like experience on small screens.*
 
+---
+
 ## Setup Instructions
 
-1.  Install dependencies: `npm install`
-2.  Run the development server: `npm run dev`
-3.  Build for production: `npm run build`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Pranav08-cyber/fosse_screening_task
+
+2. Navigate to the project folder:
+  cd workshop_booking-master
+
+3. Install dependencies:
+   npm install
+
+4. Run the development server:
+   npm run dev
+
+5. To build for production:
+   npm run build
+
+---
+
