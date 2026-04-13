@@ -118,8 +118,6 @@ This project addresses these issues by creating a modern, intuitive, and scalabl
 *A dedicated mobile bottom navigation bar ensures a "thumb-friendly" and native-app-like experience on small screens.*
 
 
-Got it — you want proper **markdown code blocks (black boxes)**. Use this 👇
-
 ---
 
 ## Setup Instructions
